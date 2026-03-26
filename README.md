@@ -1,2 +1,0 @@
-# tintswalo-checklist
-Checklist WhatsApp
